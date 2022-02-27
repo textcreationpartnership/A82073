@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration concerning the King. From the citizens of London. And their resolution and protestation, touching the remonstrance of the Army: and propositions concerning the preservation and protection of His Majesties Royall person from violence and injury. With a declaration from divers of His Majesties loyall subjects, assembled in Parliament, touching the demands of the Army agasint the King, and their severall speeches in behalf of His Majesty. Also terrible newes from the Isle of Wight.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82073</idno>
+            <idno type="STC">Wing D572</idno>
+            <idno type="STC">Thomason E473_17</idno>
+            <idno type="STC">ESTC R205258</idno>
+            <idno type="EEBO-CITATION">99864675</idno>
+            <idno type="PROQUEST">99864675</idno>
+            <idno type="VID">162438</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162438)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E473[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration concerning the King. From the citizens of London. And their resolution and protestation, touching the remonstrance of the Army: and propositions concerning the preservation and protection of His Majesties Royall person from violence and injury. With a declaration from divers of His Majesties loyall subjects, assembled in Parliament, touching the demands of the Army agasint the King, and their severall speeches in behalf of His Majesty. Also terrible newes from the Isle of Wight.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Collings,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb: 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162438:1" rendition="simple:additions"/>
+            <p>A DECLARATION Concerning the KING.</p>
+            <p>From the Citizens of LONDON, AND Their <hi>Reſolution</hi> and <hi>Protestation,</hi> touching the <hi>Remonſtrance</hi> of the <hi>Army:</hi> And <hi>Propoſitions</hi> concerning the preſerva<g ref="char:EOLhyphen"/>tion and protection of His Majeſties Royall per<g ref="char:EOLhyphen"/>ſon from violence and injury.</p>
+            <p>With a <hi>Declaration</hi> from divers of His Majeſties loyall Subjects, aſſembled in <hi>Parliament,</hi> touching the De<g ref="char:EOLhyphen"/>mands of the Army againſt the <hi>King,</hi> and their ſeverall Speeches in behalf of His Majeſty.</p>
+            <figure>
+               <figDesc>blazon of the City of London used as a printer's device</figDesc>
+            </figure>
+            <p>Alſo terrible Newes from the Iſle of <hi>Wight.</hi>
+            </p>
+            <p>
+               <add>nouemb: 23.</add> 
+               <hi>London,</hi> Printed for <hi>Richard Collings,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:162438:2"/>
+            <pb n="1" facs="tcp:162438:2"/>
+            <head>A DECLARATION FOR THE KING From divers of His Majeſties loyall Subjects in both Houſes of <hi>Parliament,</hi> and the Citizens of <hi>LONDON.</hi>
+            </head>
+            <p>The Honourable Court of <hi>Parliament</hi> having received a <hi>Remonſtrance,</hi> or <hi>Declaration,</hi> from the <hi>Army,</hi> containing divers Propoſals excee<g ref="char:EOLhyphen"/>ding high and of great conſequence; and upon debate thereof, divers of the diſ-aſ ſenting Members declared a great diſlike thereof, and his Majeſties moderate
+<pb n="2" facs="tcp:162438:3"/>friends deſired it might be laid a ſide for ſome certain dayes others moved that it might be ejected; and in the concluſion, after they had ſufficiently declared their full ſenſe touching the Deſires of the Army, they reſolved to lay it aſide till Munday next.</p>
+            <p>After reading the ſaid <hi>Remonstrance,</hi> Mr. <hi>Pryn</hi> made a very learned Speech, concerning the Demands of the Army, his expreſſions tending much to the diſhonour of them, who argued very ſtifly againſt the unlaw<g ref="char:EOLhyphen"/>ſulneſſe of their Demands.</p>
+            <p>Divers other Members ſeconded him, and deſired to inſiſt no further thereon, but to wave their Propoſals for a time.</p>
+            <p>Yet notwithſtanding the ſaid Arguments and De<g ref="char:EOLhyphen"/>ſires, the well affected party declared a great unwil<g ref="char:EOLhyphen"/>lingneſſe to diſpenſe with any time, but to inſiſt there<g ref="char:EOLhyphen"/>on immediatly, and to endeavour to give all ſpeedy &amp; poſſible ſatisfaction to them in all things by them deſi<g ref="char:EOLhyphen"/>red.</p>
+            <div type="part">
+               <head>The Declaration of the Citizens of London, concerning the Demands of the Army.</head>
+               <p>VVHereas wee have lately received a Paper intituled the <hi>Remonstrance</hi> or <hi>Declaration</hi> of the Army, We do unanimouſly declare, That We ſhall willingly and freely comply with them therein, for the executing exemplary Juſtice upon all capitall Off<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nders, and endeavour the reſtitution of the Free<g ref="char:EOLhyphen"/>born people of <hi>England</hi> to their common Rights, Li<g ref="char:EOLhyphen"/>berties,
+<pb n="3" facs="tcp:162438:3"/>and Freedoms, proteſting to live and dye with them therein, for obtaining, effecting, and making fu<g ref="char:EOLhyphen"/>ture proviſion for the ſame.</p>
+               <p>
+                  <hi>Signed by many thouſands of the well-affected party in and about the City of London.</hi>
+               </p>
+               <p>Theſe mutuall expreſſions are ſaid to proceed from thoſe Citizens, who are known and diſtinguiſhed by the Badge of Independency; But it is ſaid, that the Presbyterian party, and others, are reſolved to thwart them in their Engagement, and to declare againſt ſome particular Domands of the Army, whom they con<g ref="char:EOLhyphen"/>ceive to be too high and unreaſonable.</p>
+               <p>But concur with them in their Propoſition for the executing of Juſtice upon the viſible enemies of <hi>peace</hi> provided a favourable conſtruction may be had on his Majeſties former actions and proceedings, and that they may bee weighed in the Ballance of Equity and Compaſſion.</p>
+               <p>Mr. <hi>Speaker,</hi> The Generall Councell of Officers at their late meeting here have unanimouſly a<g ref="char:EOLhyphen"/>agreed upon a Remonſtrance, to be preſented to you and in regard it concernes matters of higheſt and pre<g ref="char:EOLhyphen"/>ſent importance to your ſelfe, to Us<g ref="char:punc">▪</g> and the whole <hi>Kingdom;</hi> I do, at the deſire of the Officers, and in the behalf of them, and my ſelf moſt earneſtly intreat that it may have a preſent reading, and the things propoun<g ref="char:EOLhyphen"/>ded therein may be timely conſidered.</p>
+               <closer>
+                  <dateline>St. Albans <date>2<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Novemb. 1648.</date>
+                  </dateline>
+                  <signed>Your most humble ſervant, <hi>T. FAIRFAX.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="2" facs="tcp:162438:4"/>
+               <head>The Charge and Propoſals of the Army.</head>
+               <p n="1">1 That the capitall and grand Authors of onr trou<g ref="char:EOLhyphen"/>bles, the perſon of the King may be ſpeedily brought to Juſtice, for the Treaſon, bloud, and miſchief he is al<g ref="char:EOLhyphen"/>ready guilty of. 2 That a timely and peremptory day may be ſet for the Prince of <hi>Wales,</hi> and the Duke of <hi>York</hi> to come in, and render themſelves, by which time if they do not, that then they may be immediatly de<g ref="char:EOLhyphen"/>clared incapable of any government or truſt whatſoe<g ref="char:EOLhyphen"/>ver, and to ſtand exild for ever, as enemies and tray<g ref="char:EOLhyphen"/>tors, to dye without mercy, if ever after taken. And if they or either of them, renders themſelves within the ſaid time, that then the Prince for his capitall delin<g ref="char:EOLhyphen"/>quency (being in appearance next to his Fathers) and himſelfe and the Duke to be proceeded againſt in Ju<g ref="char:EOLhyphen"/>ſtice, or remitted according as they ſhall give ſatisfa<g ref="char:EOLhyphen"/>ction. But however that the Eſtate and Revenue of the Crown may be ſequeſtred, and all the matter of coſt<g ref="char:EOLhyphen"/>ly pomp ſuſpended for a good number of yeers, while the deſolations and ſpoyles of the poor people may be repaired for eaſe of the peoples contributions, 3 That Juſtice bee executed on a competent number of his chiefe Inſtruments that are in the power of the Parl. ſo that their exemption from pardon may not bee a mockery of Juſtice in the face of God &amp; Man. 4 that the reſt of the Delinquents <hi>(Engliſh)</hi> may upon ren<g ref="char:EOLhyphen"/>dition of themſelves to Juſtice, have mercy extended to them for their lives, and fines ſet upon them with moderation, and thoſe that have compounded, to bee freed from Suits, Arreſts, &amp;c. Now after Juſtice thus done upon the forementioned particulars, we propound
+<pb n="3" facs="tcp:162438:4"/>further for ſetling of the peace of the Kingdoms, <hi>viz.</hi>
+               </p>
+               <p n="1">1 That a ſpeedy period may be put to this Parl. and teat the power thereof may again return to the peo<g ref="char:EOLhyphen"/>ple, by, and whom it was firſt conſtituted, and proviſi<g ref="char:EOLhyphen"/>on for future, Annuall or Biennial, upon grounds of common right freedom, and ſafety.</p>
+               <p n="2">2 That no Delinquents may elect or be elected, at leaſt for ſome time, and that there may be a certainty of their ſitting, meeting, and ending.</p>
+               <p n="3">3 That it be declared, that as to the whole intereſt of the Commons of <hi>England;</hi> they are the ſupream po<g ref="char:EOLhyphen"/>wer, for the making, clearing, or repealing Lawes; for making War or Peace, and for finall iudgment in civil things without further appeale; and that all the Com<g ref="char:EOLhyphen"/>mons of <hi>England,</hi> and all Officers of Juſtice, and Mini<g ref="char:EOLhyphen"/>ſters of State, ſhall for the outward man, and outward things be concluded thereby; provided, theſe things be reſerved from, and not intruſted in the ſaid Repreſen<g ref="char:EOLhyphen"/>tatives.</p>
+               <p n="1">1 The queſtioning or cenſuring of any man, for any thing ſaid or done, in relation to the late wars, but ſuch caſes as before mentioned.</p>
+               <p n="2">2 The rendring up, or giving, or taking away of any of the Foundations of Right, Liberty, and ſafety to the People, contained in a ſettlement and agreement; which to be above Law, and to bee ſigned unto by the Peo<g ref="char:EOLhyphen"/>ple.</p>
+               <p>That no King; or other publike Officer be hereafter admitted, without ſubſcribing to his ſettlement.</p>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+            </div>
+            <div type="postscript">
+               <pb n="6" facs="tcp:162438:5"/>
+               <p> 
+                  <hi>Novemb.</hi> 22. Letters from the Iſle of <hi>Wight</hi> ſay, <hi>That his Majeſty begins to grow exceeding diſcontented and melancholy, and feareth much the preſent Overtures of the Army, touching their ſeizing on his Royall perſon, which hath occaſioned many ſundry contemplative expreſ<g ref="char:EOLhyphen"/>ſions from his Majesty, who ſaith, that if they execute their wills on Him, by ſpilling of his Royall bloud, He fea<g ref="char:EOLhyphen"/>reth divers more will follow. Theſe diſmall Repreſenta<g ref="char:EOLhyphen"/>tions cauſeth much ſadneſſe and mourning throughout ſeverall corners of the Nation. But it is thought that ſome new addreſses will be made from the ſeverall Counties, to the Parliament and Army, in behalf of their dread Sove<g ref="char:EOLhyphen"/>raign the King. And a Declaration is ſuppoſed to be im<g ref="char:EOLhyphen"/>mediatly ſet forth by his Majeſty, concerning the Armies Proceedings by way of Charge againſt His Royall perſon.</hi>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
